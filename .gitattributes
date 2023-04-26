@@ -1,1 +1,9 @@
-
+OMT_UE5/Content/Assets/AssetPacks/MWConiferForest/Sounds/SND_MW_ForestAmbient.uasset filter=lfs diff=lfs merge=lfs -text
+OMT_UE5/Content/OneMoreTime/Alembic/WallShatter_V6.uasset filter=lfs diff=lfs merge=lfs -text
+OMT_UE5/Content/OneMoreTime/Alembic/OMT_H_WallShatter_v5.uasset filter=lfs diff=lfs merge=lfs -text
+OMT_UE5/Content/OneMoreTime/Alembic/OMT_H_WallShatter_v2.uasset filter=lfs diff=lfs merge=lfs -text
+OMT_UE5/Content/OneMoreTime/Alembic/OMT_H_WallShatter_v1.uasset filter=lfs diff=lfs merge=lfs -text
+OMT_UE5/Content/ProceduralForest/Maps/ProceduralForest.umap filter=lfs diff=lfs merge=lfs -text
+OMT_UE5/Content/OneMoreTime/Maps/Forest-Fairytale.umap filter=lfs diff=lfs merge=lfs -text
+OMT_UE5/Content/OneMoreTime/Maps/CountrySide.umap filter=lfs diff=lfs merge=lfs -text
+OMT_UE5/Content/Assets/AssetPacks/Forest/Maps/Demo.umap filter=lfs diff=lfs merge=lfs -text
