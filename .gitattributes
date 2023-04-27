@@ -7,3 +7,4 @@ OMT_UE5/Content/ProceduralForest/Maps/ProceduralForest.umap filter=lfs diff=lfs 
 OMT_UE5/Content/OneMoreTime/Maps/Forest-Fairytale.umap filter=lfs diff=lfs merge=lfs -text
 OMT_UE5/Content/OneMoreTime/Maps/CountrySide.umap filter=lfs diff=lfs merge=lfs -text
 OMT_UE5/Content/Assets/AssetPacks/Forest/Maps/Demo.umap filter=lfs diff=lfs merge=lfs -text
+OMT_UE5/Content/OneMoreTime/Alembic/OMT_H_WallShatter_v4.uasset filter=lfs diff=lfs merge=lfs -text
