@@ -73,3 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 OMT_UE5/Saved/Logs/OMT_UE5.log
+Content/Cupid.fbx
+Content/Cupid/Cupid-Cleaned.fbx
+Content/Cupid/Cupid-Cleaned.fbm/Cupid_u1_v1_diffuse.png
