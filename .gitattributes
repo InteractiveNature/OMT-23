@@ -10,3 +10,4 @@ OMT_UE5/Content/Assets/AssetPacks/Forest/Maps/Demo.umap filter=lfs diff=lfs merg
 OMT_UE5/Content/OneMoreTime/Alembic/OMT_H_WallShatter_v4.uasset filter=lfs diff=lfs merge=lfs -text
 OMT_UE5/Content/OneMoreTime/Manniquins/Models/Cupid/Cupid-Cleaned.uasset filter=lfs diff=lfs merge=lfs -text
 OMT_UE5/Content/OneMoreTime/Manniquins/Manniquins.umap filter=lfs diff=lfs merge=lfs -text
+OMT_UE5/Content/OneMoreTime/Alembic/OMT_H_WallShatter_Collapse.uasset filter=lfs diff=lfs merge=lfs -text
