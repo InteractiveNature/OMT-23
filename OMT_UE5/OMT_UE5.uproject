@@ -171,6 +171,10 @@
 		{
 			"Name": "StaticMeshEditorModeling",
 			"Enabled": true
+		},
+		{
+			"Name": "ImagePlate",
+			"Enabled": true
 		}
 	]
 }
