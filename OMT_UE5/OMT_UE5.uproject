@@ -167,6 +167,10 @@
 		{
 			"Name": "NiagaraSimCaching",
 			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
+			"Enabled": true
 		}
 	]
 }
