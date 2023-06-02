@@ -11,3 +11,7 @@ OMT_UE5/Content/OneMoreTime/Alembic/OMT_H_WallShatter_v4.uasset filter=lfs diff=
 OMT_UE5/Content/OneMoreTime/Manniquins/Models/Cupid/Cupid-Cleaned.uasset filter=lfs diff=lfs merge=lfs -text
 OMT_UE5/Content/OneMoreTime/Manniquins/Manniquins.umap filter=lfs diff=lfs merge=lfs -text
 OMT_UE5/Content/OneMoreTime/Alembic/OMT_H_WallShatter_Collapse.uasset filter=lfs diff=lfs merge=lfs -text
+C:/Users/logan/Documents/GitHub/OMT-23/OMT_UE5/Content/Assets/GeoNodes/TreeSphere/GimmeMore_EvilTree_SphereInstancing_GimmeMore_EvilTree_SphereInstancingStaticMesh.uasset filter=lfs diff=lfs merge=lfs -text
+OMT-23/OMT_UE5/Content/Assets/GeoNodes/TreeSphere/GimmeMore_EvilTreeSphere_v2.uasset filter=lfs diff=lfs merge=lfs -text
+GimmeMore_EvilTree_SphereInstancing_GimmeMore_EvilTree_SphereInstancingStaticMesh.uasset filter=lfs diff=lfs merge=lfs -text
+GimmeMore_EvilTreeSphere_v2.uasset filter=lfs diff=lfs merge=lfs -text
