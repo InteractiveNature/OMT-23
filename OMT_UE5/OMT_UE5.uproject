@@ -175,6 +175,10 @@
 		{
 			"Name": "ImagePlate",
 			"Enabled": true
+		},
+		{
+			"Name": "AlterMesh",
+			"Enabled": true
 		}
 	]
 }
